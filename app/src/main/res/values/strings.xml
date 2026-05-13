@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Ac2Mobile</string>
+
+    <string-array name="tipos_atividade">
+        <item>Selecione uma atividade...</item>
+        <item>Musculação</item>
+        <item>Corrida</item>
+        <item>Caminhada</item>
+        <item>Ciclismo</item>
+        <item>Funcional</item>
+    </string-array>
+
+    <string-array name="intensidade_treino">
+        <item>Selecione a intensidade...</item>
+        <item>Leve</item>
+        <item>Moderada</item>
+        <item>Intensa</item>
+    </string-array>
+</resources>
